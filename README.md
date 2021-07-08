@@ -1,1 +1,1 @@
-# mxos-os-example
+# mxos-program
